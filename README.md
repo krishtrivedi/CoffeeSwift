@@ -3,7 +3,7 @@ My First IOS Application ::
 
 Swift Application to select available favorite drinks and submit the order.
 
-I have used UIKit for the development
+I have used UIKit for the development.
 
 Features Implemented
 
