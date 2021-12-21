@@ -7,13 +7,14 @@ I have used UIKit for the development
 
 Features Implemented
 
-Place an order
-Adding items for the order
-Submit the order
-Order History
+1) Place an order
+2) Adding items for the order
+3) Submit the order
+4) Order History
+
 TO DO:
 
-Size selection
-Prices and calculate the running total
-Persist data
-Still Working on View Order History using Firebase
+1) Size selection
+2) Prices and calculate the running total
+3) Persist data
+4) Still Working on View Order History using Firebase
